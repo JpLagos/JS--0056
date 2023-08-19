@@ -1,0 +1,17 @@
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/Thylocal3a4Application.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/security/jwt/JwtUtils.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/repo/RoleRepository.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/controller/AuthController.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/model/Role.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/repo/UserRepository.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/payload/response/JwtResponse.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/security/jwt/AuthTokenFilter.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/security/services/UserDetailsImpl.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/security/jwt/AuthEntryPointJwt.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/payload/request/LoginRequest.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/payload/request/SignUpRequest.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/security/services/UserDetailsServiceImpl.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/payload/response/MessageResponse.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/controller/TestController.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/model/User.java
+/Users/danielfs/Documents/JAVFF/Thylocal-3a-4/src/main/java/cl/security/curso/model/ERole.java
